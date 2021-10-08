@@ -9,7 +9,7 @@ Texto sumamente importante
 |---|---|
 |Entradas| Busqueda categoría // Cadena caracteres |  
 |---|---|
-|Salidas| Resultado busqueda|
+|Salidas| Resultado busqueda xd|
 
 
 Y me dice papi papi sí
