@@ -12,7 +12,6 @@ Texto sumamente importante
 |Salidas| Resultado busqueda xd|
 
 
-d
 
 
 |RF002|Reconocimiento de Usuarios|
@@ -26,4 +25,6 @@ d
 |Salidas| "ID de Usuario"|
 |---|---|
 |Observaciones|La cuenta solo permite hacer la consulta de los animes y recoger la información|
+
+
 
