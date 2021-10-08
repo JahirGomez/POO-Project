@@ -38,7 +38,7 @@ El usa
 |---|---|
 |Prioridad|Alta|
 |---|---|
-|Descripción| Mediante una  cuenta de tipo administrador, se le permite al usuario |
+|Descripción| Mediante una serie de procedimientos y al tener una cuenta de tipo administrador, se le permite al usuario modificar la información de la base de datos, de tal manera que pueda agregar nuevos animes, modificar la información de animes ya ecistentes en la base de datos,  |
 |---|---|
 |Entradas| |
 |---|---|
