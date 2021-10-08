@@ -2,7 +2,7 @@
 ## Requerimentos de usuario:
 Usuario: Persona la cual solicita los datos al sistema.
 -El usuario podrá realizar la busqueda de su anime. 
-## Requerimientos de usuario Adminstrador:
+## Requerimientos de usuario adminstrador:
 Usuario Administrador: Persona la cual tiene acceso a modificar la base de datos.
 -El usuario administrador podrá agregar actualizar o eliminar cualquier registro de anime existente.
 
@@ -29,31 +29,31 @@ Usuario Administrador: Persona la cual tiene acceso a modificar la base de datos
 |Prioridad|Alta|
 |Descripción| Mediante una cuenta de tipo administrador, se le permite al usuario modificar la información de la base de datos, de tal manera que pueda agregar nuevos animes, modificar la información de animes ya existentes o borrar información|
 |Entradas|"Eliminar" "Leer" "Actualizar" "Crear"|
-|Salidas| ""|
+|Salidas| "La opción seleccionada"|
 
 |RF004|Agregar contenido|
 |---|---|
 |Prioridad|Alta|
 |Descripción| Mediante una cuenta de tipo administrador se le permite al usuario agregar a la base de datos nuevos animes con todas las características que este posea|
-|Entradas|""|
+|Entradas|"Title","Author","Gender","Chapters","Premiere date","Characters","Status","Duration","Language","Summary","Target audience"|
 |Salidas| ""|
 
 |RF005|Actualizar contenido|
 |---|---|
 |Prioridad|Alta|
 |Descripción| Mediante una cuenta de tipo administrador se le permite al usuario actualizar la base de datos, podiendo este cambiar u agregar información a ciertos animes para que cuando un usuario clásico realice la busqueda de algún anime, se le presente la información mas adecuada y especifica|
-|Entradas|""|
+|Entradas|"Title","Author","Gender","Chapters","Premiere date","Characters","Status","Duration","Language","Summary","Target audience"|
 |Salidas| ""|
 
 |RF006|Borrar contenido|
 |---|---|
 |Prioridad|Alta|
 |Descripción| Mediante una cuenta de tipo administrador se le permite al usuario borrar parte de la base de datos, podiendo este borrar unicamente información que el mismo haya agregado|
-|Entradas|""|
+|Entradas|"Title","Author","Gender","Chapters","Premiere date","Characters","Status","Duration","Language","Summary","Target audience"|
 |Salidas| ""|
 
 
-**REQUERIMIENTOS NO FUNCIONALES**
+**No Funcionales**
 
 |RFN001|Tiempo de respuesta|
 |---|---|
