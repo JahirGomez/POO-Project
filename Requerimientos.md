@@ -1,5 +1,11 @@
 #Requerimientos Funcionales 
-Texto sumamente importante
+Requerimentos del usuario:
+Usuario: Persona la cual solicita los datos al sistema.
+El usuario podrá realizar la busqueda de su anime. 
+Requerimientos del usuario Adminstrador:
+Usuario Administrador: Persona la cual tiene acceso a modificar la base de datos
+El usa
+
 
 
 |RF001|Búsqueda de animes|
@@ -27,4 +33,16 @@ Texto sumamente importante
 |Observaciones|La cuenta solo permite hacer la consulta de los animes y recoger la información|
 
 
+
+|RF003|CRUD|
+|---|---|
+|Prioridad|Alta|
+|---|---|
+|Descripción| Mediante una  cuenta de tipo administrador, se le permite al usuario |
+|---|---|
+|Entradas| |
+|---|---|
+|Salidas| "ID de Usuario"|
+|---|---|
+|Observaciones|La cuenta solo permite hacer la consulta de los animes y recoger la información|
 
