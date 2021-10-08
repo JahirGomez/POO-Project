@@ -1,48 +1,73 @@
-#Requerimientos Funcionales 
-Requerimentos del usuario:
+# Requerimientos 
+## Requerimentos de usuario:
 Usuario: Persona la cual solicita los datos al sistema.
-El usuario podrá realizar la busqueda de su anime. 
-Requerimientos del usuario Adminstrador:
+-El usuario podrá realizar la busqueda de su anime. 
+## Requerimientos de usuario Adminstrador:
 Usuario Administrador: Persona la cual tiene acceso a modificar la base de datos
-El usa
+-El usuario administrador podrá agregar actualizar o eliminar cualquier registro de anime existente
 
+## Requerimentos del sistema:
 
+**Funcionales**
 
 |RF001|Búsqueda de animes|
 |---|---|
 |Prioridad:|Alta|
 |Descripción|El sistema permite al usuario la búsqueda de animes, ya sea por el nombre del anime, género y por el personaje |
-|---|---|
 |Entradas| Busqueda categoría // Cadena caracteres |  
-|---|---|
 |Salidas| Resultado busqueda xd|
-
-
-
 
 |RF002|Reconocimiento de Usuarios|
 |---|---|
 |Prioridad|Alta|
-|---|---|
 |Descripción| El sistema permite crear una cuenta e ingresar mediante ella desde cualquier dispositivo en la red mediante un nombre de usuario y una contraseña elegidos, dicha cuenta servirá para que el usuario haga uso de la API|
-|---|---|
 |Entradas| "Usuario", "Correo/Facebook", "Password"|
-|---|---|
 |Salidas| "ID de Usuario"|
-|---|---|
-|Observaciones|La cuenta solo permite hacer la consulta de los animes y recoger la información|
-
-
 
 |RF003|CRUD|
 |---|---|
 |Prioridad|Alta|
+|Descripción| Mediante una cuenta de tipo administrador, se le permite al usuario modificar la información de la base de datos, de tal manera que pueda agregar nuevos animes, modificar la información de animes ya existentes o borrar información|
+|Entradas|"Eliminar" "Leer" "Actualizar" "Crear"|
+|Salidas| ""|
+
+|RF004|Agregar contenido|
 |---|---|
-|Descripción| Mediante una serie de procedimientos y al tener una cuenta de tipo administrador, se le permite al usuario modificar la información de la base de datos, de tal manera que pueda agregar nuevos animes, modificar la información de animes ya ecistentes en la base de datos,  |
+|Prioridad|Alta|
+|Descripción| Mediante una cuenta de tipo administrador se le permite al usuario agregar a la base de datos nuevos animes con todas las características que este posea|
+|Entradas|""|
+|Salidas| ""|
+
+|RF005|Actualizar contenido|
 |---|---|
-|Entradas| |
+|Prioridad|Alta|
+|Descripción| Mediante una cuenta de tipo administrador se le permite al usuario actualizar la base de datos, podiendo este cambiar u agregar información a ciertos animes para que cuando un usuario clásico realice la busqueda de algún anime, se le presente la información mas adecuada y especifica|
+|Entradas|""|
+|Salidas| ""|
+
+|RF006|Borrar contenido|
 |---|---|
-|Salidas| "ID de Usuario"|
+|Prioridad|Alta|
+|Descripción| Mediante una cuenta de tipo administrador se le permite al usuario borrar parte de la base de datos, podiendo este borrar unicamente información que el mismo haya agregado|
+|Entradas|""|
+|Salidas| ""|
+
+
+**REQUERIMIENTOS NO FUNCIONALES**
+
+|RFN001|Tiempo de respuesta|
 |---|---|
-|Observaciones|La cuenta solo permite hacer la consulta de los animes y recoger la información|
+|Descripción|El sistema deberá realizar la busqueda solicitada por el usuario en # segundo o menos|
+
+|RFN002|Historial de busqueda|
+|---|---|
+|Descripción|El sistema guardará las busquedas realizadas por el usuario mientras este permanezca logueado|
+
+|RFN003|Seguridad|
+|---|---|
+|Descripción|El sistema deberá ser capaz de resistir ataques de denegación del servicio que intenten saturar los servidores que utiliza el software para su funcionamiento|
+
+|RFN004|Acceso al sistema|
+|---|---|
+|Descripción|El sistema debe permitir al usuario acceder con éxito a la plataforma en un 99% de las veces en las que intente ingresar al servicio.|
 
