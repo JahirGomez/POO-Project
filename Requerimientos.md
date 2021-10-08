@@ -27,4 +27,5 @@ ariel está guapo
 |---|---|
 |Observaciones|La cuenta solo permite hacer la consulta de los animes y recoger la información|
 
-
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+dsdsdsdsdsdsds
