@@ -12,9 +12,7 @@ Texto sumamente importante
 |Salidas| Resultado busqueda xd|
 
 
-Y me dice papi papi sí
-Si estás hablando se te corta
-Me escuchas xd?
+
 
 
 |RF002|Reconocimiento de Usuarios|
