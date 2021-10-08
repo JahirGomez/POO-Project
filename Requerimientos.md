@@ -12,7 +12,7 @@ Texto sumamente importante
 |Salidas| Resultado busqueda xd|
 
 
-
+ariel está guapo
 
 
 |RF002|Reconocimiento de Usuarios|
