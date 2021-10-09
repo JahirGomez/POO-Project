@@ -27,7 +27,7 @@
 
 
 
-|CU02 |1.0 |
+|CU02 | 1.0 |
 |---|---|
 |Dependencias |-Registrar nuevos usuarios -Iniciar sesión -Cerrar sesión |
 |Precondición |Tener cuenta de correo(gmail) o una cuenta de Facebook|
@@ -38,7 +38,7 @@
 |3 | Una vez finalizado el usuario puede cerrar la sesión de su cuenta |
 |Postcondición |El usuario tendra acceso al sistema |
 |Excepciones - Paso |Acción |
- |2 |Si el usuario ingresa datos incorrectos de su cuenta o intenta iniciar sesión con una cuenta no registrada|
- ||E.1| El sistema informa de la problemática que impide iniciar sesión | 
- ||E.2| Se borran los datos ingresados y se le pide al usuario digitar de nuevo sus datos |
+ |2 |Si el usuario ingresa datos incorrectos de su cuenta o intenta iniciar sesión con una cuenta no registrada |
+ ||E.1 El sistema informa de la problemática que impide iniciar sesión | 
+ ||E.2 Se borran los datos ingresados y se le pide al usuario digitar de nuevo sus datos  |
 |Comentarios |El número máximo de intentos para iniciar sesión es de 5, despues del quinto intento el sistema no le permite al usuario ingresar sus datos|
