@@ -19,6 +19,6 @@
 | |2 | El usuario ingresa una cadena de caracteres/enunciados con las características específicas del anime que desea buscar|
 | |3 | El usuario ingresa una cadena de caracteres/enunciados con las características específicas del anime que desea buscar |
 | |4 |La API devuelve toda la información encontrada |
-| |**Postcondición** |El usuario recibe toda la información acerca del anime buscado |
+||**Postcondición** |El usuario recibe toda la información acerca del anime buscado |
 
 
