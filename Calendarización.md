@@ -11,4 +11,4 @@ La primer entrega está enfocada en mostrar un avance de la documentación del p
 La segunda entrega tendrá como fin el mostrar las correciones de la primera entrega y mostrar un avance del código del sistema
 
 ##### Entrega final
-La entrega final, como su nombre meciona es la entrega donde estará la documentación del proyecto ya corregida y el sistema ya en funcionamiento 
+La entrega final, como su nombre meciona es la entrega donde estará la documentación del proyecto ya corregida y la entrega del sistema ya en funcionamiento 
