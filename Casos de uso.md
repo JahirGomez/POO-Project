@@ -24,3 +24,4 @@
  ||E.2  Se reinicia el buscador |
 |Comentarios |El número máximo de búsquedas de anime es ilimitado, siempre que el usuario desee conocer todo acerca de algún anime podrá realizar una búsqueda en la API. |
 
+CUU02
