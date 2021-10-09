@@ -24,7 +24,7 @@
 
 |Excepciones |Paso |Acción |
 |---|---|---|
-| ||2 |Si el usuario en lugar de agregar una cadena de caracteres ingresa datos numéricos  
+| |2 |Si el usuario en lugar de agregar una cadena de caracteres ingresa datos numéricos  
 1. E.1 El sistema informa de la problemática que impide realizar la búsqueda 
 2. E.2  Se reinicia el buscador |
 
