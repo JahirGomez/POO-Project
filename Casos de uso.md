@@ -6,28 +6,7 @@
 |Realizar consulta |Usuario |Mediante la entrada por teclado, el usuario ingresa caracteres que hacen referencia a las características particulares que a éste le interesan o que, en su defecto, conozca del anime que desea buscar. |
 |Administración de la base de datos |Administrador | Permite a las personas admitidas con cuenta de administrador, realizar modificaciones a la base de datos, dichas modificaciones se pueden clasificar en: actualizar, agregar y eliminar contenido. |
 
-
-
-|CU01 |1.0 |
-|---|---|
-|Dependencias |-Realizar consulta -Recibir datos sobre algún anime |
-|Precondición |El usuario ha creado una cuenta o a iniciado sesión |
-|Descripción|El sistema deberá comportarse como se describe en el siguiente caso de uso cuando el usuario de la API solicité al sistema datos sobre algún anime en especifico |
-|Paso |Acción |
-|1 |El usuario accede a la interfaz/pantalla principal para comenzar el proceso de búsqueda de un anime |
-|2 | El usuario ingresa una cadena de caracteres/enunciados con las características específicas del anime que desea buscar|
-|3 | El usuario ingresa una cadena de caracteres/enunciados con las características específicas del anime que desea buscar |
-|4 |La API devuelve toda la información encontrada |
-|Postcondición |El usuario recibe toda la información acerca del anime buscado |
-|Excepciones - Paso |Acción |
- |2 |Si el usuario en lugar de agregar una cadena de caracteres ingresa datos numéricos |
- ||E.1 El sistema informa de la problemática que impide realizar la búsqueda | 
- ||E.2  Se reinicia el buscador |
-|Comentarios |El número máximo de búsquedas de anime es ilimitado, siempre que el usuario desee conocer todo acerca de algún anime podrá realizar una búsqueda en la API. |
-
-
-
-|CU02 | 1.0 |
+|CU01 | 1.0 |
 |---|---|
 |Dependencias |-Registrar nuevos usuarios -Iniciar sesión -Cerrar sesión |
 |Precondición |Tener cuenta de correo(gmail) o una cuenta de Facebook|
@@ -43,6 +22,22 @@
  ||E.2 Se borran los datos ingresados y se le pide al usuario digitar de nuevo sus datos  |
 |Comentarios |El número máximo de intentos para iniciar sesión es de 5, despues del quinto intento el sistema no le permite al usuario ingresar sus datos|
 
+|CU02 |1.0 |
+|---|---|
+|Dependencias |-Realizar consulta -Recibir datos sobre algún anime |
+|Precondición |El usuario ha creado una cuenta o a iniciado sesión |
+|Descripción|El sistema deberá comportarse como se describe en el siguiente caso de uso cuando el usuario de la API solicité al sistema datos sobre algún anime en especifico |
+|Paso |Acción |
+|1 |El usuario accede a la interfaz/pantalla principal para comenzar el proceso de búsqueda de un anime |
+|2 | El usuario ingresa una cadena de caracteres/enunciados con las características específicas del anime que desea buscar|
+|3 | El usuario ingresa una cadena de caracteres/enunciados con las características específicas del anime que desea buscar |
+|4 |La API devuelve toda la información encontrada |
+|Postcondición |El usuario recibe toda la información acerca del anime buscado |
+|Excepciones - Paso |Acción |
+ |2 |Si el usuario en lugar de agregar una cadena de caracteres ingresa datos numéricos |
+ ||E.1 El sistema informa de la problemática que impide realizar la búsqueda | 
+ ||E.2  Se reinicia el buscador |
+|Comentarios |El número máximo de búsquedas de anime es ilimitado, siempre que el usuario desee conocer todo acerca de algún anime podrá realizar una búsqueda en la API. |
 
 |CU03 | 1.0 |
 |---|---|
