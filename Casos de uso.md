@@ -9,6 +9,23 @@
 
 |CU01 |1.0 |
 |---|---|
+|Dependencias |-Registrar nuevos usuarios -Iniciar sesión -Cerrar sesión |
+|Precondición |Tener cuenta de correo(gmail) o una cuenta de Facebook|
+|Descripción|El sistema permite al usuario crear una cuenta, iniciar sesión y cerrar sesión|
+|Paso |Acción |
+|1 |El usuario selecciona con que desea realizar el registro, ya sea Facebook o una cuenta de correo(gmail) |
+|2 | Una vez registrado, el usuario debe iniciar sesión con la opción seleccionada|
+|3 | Una vez finalizado el usuario puede cerrar la sesión de su cuenta |
+|Postcondición |El usuario recibe toda la información acerca del anime buscado |
+|Excepciones - Paso |Acción |
+ |2 |Si el usuario en lugar de agregar una cadena de caracteres ingresa datos numéricos |
+ ||E.1 El sistema informa de la problemática que impide realizar la búsqueda | 
+ ||E.2  Se reinicia el buscador |
+|Comentarios |El número máximo de búsquedas de anime es ilimitado, siempre que el usuario desee conocer todo acerca de algún anime podrá realizar una búsqueda en la API|
+
+
+|CU02 |1.0 |
+|---|---|
 |Dependencias |-Realizar consulta -Recibir datos sobre algún anime |
 |Precondición |El usuario ha creado una cuenta o a iniciado sesión |
 |Descripción|El sistema deberá comportarse como se describe en el siguiente caso de uso cuando el usuario de la API solicité al sistema datos sobre algún anime en especifico |
@@ -23,5 +40,3 @@
  ||E.1 El sistema informa de la problemática que impide realizar la búsqueda | 
  ||E.2  Se reinicia el buscador |
 |Comentarios |El número máximo de búsquedas de anime es ilimitado, siempre que el usuario desee conocer todo acerca de algún anime podrá realizar una búsqueda en la API. |
-
-CUU02
