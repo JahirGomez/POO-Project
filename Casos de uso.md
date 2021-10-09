@@ -50,6 +50,6 @@
 |3 | Salir de la base de datos |
 |Postcondición |La base de datos refleja las modificaciones hechas |
 |Excepciones - Paso |Acción |
- |2 | Si el usuario desea borrar información de la base de datos que no fue agregada por el |
- ||E.1 El sistema deniega la petición | 
-|Comentarios | Los usuarios administradores no tienen permisos para borrar información que no haya sido añadida por ellos |
+ |1 | Si los cambios realizados no son guardados |
+ ||E.1 El sistema no refleja los cambios realizados e ignora todo lo que se haya agregado, modificado o quitado de la base de datos | 
+|Comentarios | Los usuarios administradores son los unicos con los permisos necesarios para actualizar la información contenida en la base de datos |
