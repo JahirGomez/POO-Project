@@ -48,7 +48,7 @@ Usuario Administrador: Persona la cual tiene acceso a modificar la base de datos
 |RF006|Borrar contenido|
 |---|---|
 |Prioridad|Alta|
-|Descripción| Mediante una cuenta de tipo administrador se le permite al usuario borrar parte de la base de datos, podiendo este borrar unicamente información que el mismo haya agregado|
+|Descripción| Mediante una cuenta de tipo administrador se le permite al usuario borrar parte de la información guardada en la base de datos|
 |Entradas|"Title","Author","Gender","Chapters","Premiere date","Characters","Status","Duration","Language","Summary","Target audience"|
 |Salidas| ""|
 
