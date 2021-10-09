@@ -42,3 +42,19 @@
  ||E.1 El sistema informa de la problemática que impide iniciar sesión | 
  ||E.2 Se borran los datos ingresados y se le pide al usuario digitar de nuevo sus datos  |
 |Comentarios |El número máximo de intentos para iniciar sesión es de 5, despues del quinto intento el sistema no le permite al usuario ingresar sus datos|
+
+
+|CU03 | 1.0 |
+|---|---|
+|Dependencias |Actualización de contenido |
+|Precondición |Para tener acceso a la funcionalidad de poder modificar la información contenida en la base de datos, se deberá haber realizado un previo inicio de sesión con cuenta de administrador |
+|Descripción|Mediante esta funcionalidad, se podrá tener autorización para la modificación de la base de datos, es decir, crear, actualizar o borrar uno o más animes |
+|Paso |Acción |
+|1 |Ingresar a la base de datos |
+|2 | Elegir la acción a realizar, ejecutarla y guardar los cambios realizados |
+|3 | Salir de la base de datos |
+|Postcondición |La base de datos refleja las modificaciones hechas |
+|Excepciones - Paso |Acción |
+ |2 | Si el usuario desea borrar información de la base de datos que no fue agregada por el |
+ ||E.1 El sistema deniega la petición | 
+|Comentarios | Los usuarios administradores no tienen permisos para borrar información que no haya sido añadida por ellos |
