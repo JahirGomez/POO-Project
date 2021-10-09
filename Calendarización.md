@@ -8,7 +8,7 @@ En cuanto a las fechas de entrega, estas se dividen en dos entregas parciales y 
 La primer entrega está enfocada en mostrar un avance de la documentación del proyecto, los requerimientos funcionales y no funcionales, casos de uso, etc.
 
 ##### Entrega parcial 2
-La segunda entrega tendrá como fin el mostrar las correciones de la primera entrega y mostrar un avance del código del sistema
+La segunda entrega tendrá como fin el mostrar las correciones de la primera entrega junto con documentación complementaria y también deberá mostrar un avance del código del sistema
 
 ##### Entrega final
 La entrega final, como su nombre meciona es la entrega donde estará la documentación del proyecto ya corregida y la entrega del sistema ya en funcionamiento 
