@@ -55,19 +55,19 @@ Usuario Administrador: Persona la cual tiene acceso a modificar la base de datos
 
 **No Funcionales**
 
-|RFN001|Tiempo de respuesta|
+|RNF001|Tiempo de respuesta|
 |---|---|
 |Descripción|El sistema deberá realizar la busqueda solicitada por el usuario en # segundo o menos|
 
-|RFN002|Historial de busqueda|
+|RNF002|Historial de busqueda|
 |---|---|
 |Descripción|El sistema guardará las busquedas realizadas por el usuario mientras este permanezca logueado|
 
-|RFN003|Seguridad|
+|RNF003|Seguridad|
 |---|---|
 |Descripción|El sistema deberá ser capaz de resistir ataques de denegación del servicio que intenten saturar los servidores que utiliza el software para su funcionamiento|
 
-|RFN004|Acceso al sistema|
+|RNF004|Acceso al sistema|
 |---|---|
 |Descripción|El sistema debe permitir al usuario acceder con éxito a la plataforma en un 99% de las veces en las que intente ingresar al servicio.|
 
