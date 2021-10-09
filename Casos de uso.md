@@ -19,6 +19,14 @@
 | |2 | El usuario ingresa una cadena de caracteres/enunciados con las características específicas del anime que desea buscar|
 | |3 | El usuario ingresa una cadena de caracteres/enunciados con las características específicas del anime que desea buscar |
 | |4 |La API devuelve toda la información encontrada |
-||**Postcondición** |El usuario recibe toda la información acerca del anime buscado |
 
+|Postcondición |El usuario recibe toda la información acerca del anime buscado |
+
+|Excepciones |Paso |Acción |
+|---|---|---|
+| ||2 |Si el usuario en lugar de agregar una cadena de caracteres ingresa datos numéricos  
+1. E.1 El sistema informa de la problemática que impide realizar la búsqueda 
+2. E.2  Se reinicia el buscador |
+
+|Comentarios |El número máximo de búsquedas de anime es ilimitado, siempre que el usuario desee conocer todo acerca de algún anime podrá realizar una búsqueda en la API. |
 
