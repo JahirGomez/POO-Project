@@ -12,21 +12,18 @@
 |Dependencias |-Realizar consulta -Recibir datos sobre algún anime |
 |Precondición |El usuario ha creado una cuenta o a iniciado sesión |
 |Descripción|El sistema deberá comportarse como se describe en el siguiente caso de uso cuando el usuario de la API solicité al sistema datos sobre algún anime en especifico |
-
-|Secuencia normal |Paso |Acción |
-|---|---|---|
-| |1 |El usuario accede a la interfaz/pantalla principal para comenzar el proceso de búsqueda de un anime |
-| |2 | El usuario ingresa una cadena de caracteres/enunciados con las características específicas del anime que desea buscar|
-| |3 | El usuario ingresa una cadena de caracteres/enunciados con las características específicas del anime que desea buscar |
-| |4 |La API devuelve toda la información encontrada |
-
+|Paso |Acción |
+|1 |El usuario accede a la interfaz/pantalla principal para comenzar el proceso de búsqueda de un anime |
+|2 | El usuario ingresa una cadena de caracteres/enunciados con las características específicas del anime que desea buscar|
+|3 | El usuario ingresa una cadena de caracteres/enunciados con las características específicas del anime que desea buscar |
+|4 |La API devuelve toda la información encontrada |
 |Postcondición |El usuario recibe toda la información acerca del anime buscado |
 
 |Excepciones |Paso |Acción |
 |---|---|---|
 | |2 |Si el usuario en lugar de agregar una cadena de caracteres ingresa datos numéricos  
-1. E.1 El sistema informa de la problemática que impide realizar la búsqueda 
-2. E.2  Se reinicia el buscador |
+ E.1 El sistema informa de la problemática que impide realizar la búsqueda 
+ E.2  Se reinicia el buscador |
 
 |Comentarios |El número máximo de búsquedas de anime es ilimitado, siempre que el usuario desee conocer todo acerca de algún anime podrá realizar una búsqueda en la API. |
 
