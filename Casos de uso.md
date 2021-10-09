@@ -50,7 +50,7 @@
 |3 | Salir de la base de datos |
 |Postcondición |La base de datos refleja las modificaciones hechas |
 |Excepciones - Paso |Acción |
- |1 | Si los cambios realizados no son guardados |
+ |2 | Si los cambios realizados no son guardados |
  ||E.1 El sistema no refleja los cambios realizados e ignora todo lo que se haya agregado, modificado o quitado de la base de datos | 
 |Comentarios | Los usuarios administradores son los unicos con los permisos necesarios para actualizar la información contenida en la base de datos |
 
