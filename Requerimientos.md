@@ -15,7 +15,7 @@ Usuario Administrador: Persona la cual tiene acceso a modificar la base de datos
 |Prioridad:|Alta|
 |Descripción|El sistema permite al usuario la búsqueda de animes, ya sea por el nombre del anime, género y por el personaje |
 |Entradas| Busqueda categoría // Cadena caracteres |  
-|Salidas| Resultado busqueda xd|
+|Salidas| Resultado de la búsqueda.|
 
 |RF002|Reconocimiento de Usuarios|
 |---|---|
@@ -69,5 +69,5 @@ Usuario Administrador: Persona la cual tiene acceso a modificar la base de datos
 
 |RNF004|Acceso al sistema|
 |---|---|
-|Descripción|El sistema debe permitir al usuario acceder con éxito a la plataforma en un 99% de las veces en las que intente ingresar al servicio.|
+|Descripción|El sistema debe permitir al usuario acceder con éxito a la plataforma en un 99% de las veces en las que intente ingresar al servicio|
 
