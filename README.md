@@ -4,7 +4,7 @@
   - Ehuan Avila Isaac Mauricio
   - Fernandez Mena Ariel Jesus
   - Gamboa Campos Wilberth Manuel
-  - Gomez Gomez Horacio Jahir
+  - Gómez Gómez Horacio Jahir
   
 # Propósito:
 
