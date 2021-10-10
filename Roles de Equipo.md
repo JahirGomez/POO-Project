@@ -4,7 +4,7 @@ La metodología a usar para nuestro proyecto será enfocado a scrum, puesto que,
 # Roles
 La asignación de roles por cada integrante quedó de la siguiente forma:
 
-- Issac Euan: Product Owner/Development team
+- Isaac Ehuan: Product Owner/Development team
 - Ariel Fernández: Scrum Master/Development team
 - Wilberth Gamboa: Development team
 - Jahir Gomez: Development team
