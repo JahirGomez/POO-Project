@@ -1,10 +1,10 @@
 # POO-Project
 
 # Integrantes:
-  - Ehuan Avila Isaac Mauricio
-  - Fernandez Mena Ariel Jesus
-  - Gamboa Campos Wilberth Manuel
-  - Gómez Gómez Horacio Jahir
+  - Ehuan Avila Isaac Mauricio.
+  - Fernandez Mena Ariel Jesus.
+  - Gamboa Campos Wilberth Manuel.
+  - Gómez Gómez Horacio Jahir.
   
 # Propósito:
 
