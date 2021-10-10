@@ -7,4 +7,4 @@ La asignación de roles por cada integrante quedó de la siguiente forma:
 - Isaac Ehuan: Product Owner/Development team.
 - Ariel Fernández: Scrum Master/Development team.
 - Wilberth Gamboa: Development team.
-- Jahir Gomez: Development team.
+- Jahir Gómez: Development team.
