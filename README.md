@@ -2,7 +2,7 @@
 
 # Integrantes:
   - Ehuan Avila Isaac Mauricio.
-  - Fernandez Mena Ariel Jesus.
+  - Fernández Mena Ariel Jesus.
   - Gamboa Campos Wilberth Manuel.
   - Gómez Gómez Horacio Jahir.
   
