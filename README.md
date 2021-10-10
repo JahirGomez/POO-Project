@@ -1,10 +1,10 @@
 # POO-Project
 
 # Team Members:
-  - Ehuan Avila Isaac Mauricio
-  - Fernandez Mena Ariel Jesus
-  - Gamboa Campos Wilberth Manuel
-  - Gomez Gomez Horacio Jahir
+  - Ehuan Avila Isaac Mauricio.
+  - Fernández Mena Ariel Jesus.
+  - Gamboa Campos Wilberth Manuel.
+  - Gómez Gómez Horacio Jahir.
   
 # Purpose:
 
