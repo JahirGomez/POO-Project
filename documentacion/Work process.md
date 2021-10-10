@@ -1,4 +1,4 @@
 ***
-# ** Métodos y Herramientas: **
+# ** Methods and tools: **
 
-# ** Procesos de Comunicación, Planeación, Monitoreo: **
+# ** Communication, planning and monitoring processes: **
