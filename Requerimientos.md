@@ -24,33 +24,26 @@ Usuario Administrador: Persona la cual tiene acceso a modificar la base de datos
 |Entradas| "Usuario", "Correo/Facebook", "Password"|
 |Salidas| "ID de Usuario"|
 
-|RF003|CRUD|
-|---|---|
-|Prioridad|Alta|
-|Descripción| Mediante una cuenta de tipo administrador, se le permite al usuario modificar la información de la base de datos, de tal manera que pueda agregar nuevos animes, modificar la información de animes ya existentes o borrar información|
-|Entradas|"Eliminar" "Leer" "Actualizar" "Crear"|
-|Salidas| "La opción seleccionada"|
-
 |RF004|Agregar contenido|
 |---|---|
 |Prioridad|Alta|
 |Descripción| Mediante una cuenta de tipo administrador se le permite al usuario agregar a la base de datos nuevos animes con todas las características que este posea|
 |Entradas|"Title","Author","Gender","Chapters","Premiere date","Characters","Status","Duration","Language","Summary","Target audience"|
-|Salidas| ""|
+|Salidas| "Contenido actualizado"|
 
 |RF005|Actualizar contenido|
 |---|---|
 |Prioridad|Alta|
 |Descripción| Mediante una cuenta de tipo administrador se le permite al usuario actualizar la base de datos, podiendo este cambiar u agregar información a ciertos animes para que cuando un usuario clásico realice la busqueda de algún anime, se le presente la información mas adecuada y especifica|
 |Entradas|"Title","Author","Gender","Chapters","Premiere date","Characters","Status","Duration","Language","Summary","Target audience"|
-|Salidas| ""|
+|Salidas| "Contenido actualizado"|
 
 |RF006|Borrar contenido|
 |---|---|
 |Prioridad|Alta|
 |Descripción| Mediante una cuenta de tipo administrador se le permite al usuario borrar parte de la información guardada en la base de datos|
 |Entradas|"Title","Author","Gender","Chapters","Premiere date","Characters","Status","Duration","Language","Summary","Target audience"|
-|Salidas| ""|
+|Salidas| "Contenido actualizado"|
 
 
 **No Funcionales**
