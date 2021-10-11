@@ -12,14 +12,14 @@ Como: Cliente  Quiero: Tener acceso al sistema Para: Poder buscar/consultar sobr
 - El sistema debe permitir al usuario cerrar sesión en cualquier momento 
 
 
-**HU02**-*Busqueda de Información*
+**HU02**-*Busqueda de Información* 
 
-Como: Usuario Quiero:Buscar el anime de mi preferencia Para: Poder hacer uso de él o simplemente conocer más sobre este
+Como: Usuario Quiero:Buscar el o los animes de mi preferencia Para: Poder hacer uso de él o simplemente conocer más sobre este
 
 ##### Condiciones
-- El sistema debe permitir al usuario realizar la busqueda de algún anime con alguna caracteristica que la distinga de otros anime
-- El sistema debe permitir al usuario visualizar la información encontrada
+- El sistema debe permitir al usuario realizar la busqueda de uno o varios animes con alguna caracteristica, como el género o año de publicación.
 
+- El sistema debe permitir al usuario visualizar la información encontrada
 
 **HU03**- *Añadir información*
 
