@@ -1,5 +1,5 @@
 # Calendario de Actividades
-[![Calendario-De-Actividades.png](https://i.postimg.cc/9fpyzzNy/Calendario-De-Actividades.png)](https://postimg.cc/7C55WP4L)
+[![Calendar.png](https://i.postimg.cc/8CDzXnx4/Calendar.png)](https://postimg.cc/ZW7mCjbv)
 
 En el calendario de actividades trabajamos con sprints de 11 a 20 días, dichos sprints tienen una planeación y revisión, aunque las fechas del calendario pudieran verse sujetas a cambios por días festivos.
 En cuanto a las fechas de entrega, estas se dividen en dos entregas parciales y una entrega final.
