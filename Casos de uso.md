@@ -56,5 +56,4 @@
 
 
 ## Diagrama de casos de uso
-[![CASOS-DE-USO.png](https://i.postimg.cc/cHR2v7GX/CASOS-DE-USO.png)](https://postimg.cc/wyB0Pmvm)
-
+[![Casos-de-uso-2.png](https://i.postimg.cc/GtrkKQds/Casos-de-uso-2.png)](https://postimg.cc/R6s6Vw3M)
