@@ -16,7 +16,7 @@ El presente documento muestra cuáles son las diferentes características que se
 * Definición del proceso de trabajo: 2 puntos
 * Realización y análisis de las métricas de contribución individual: 1 punto.
 
-## Individual contribution metric
+## Individual contribution metric table
 |Nombre |Puntuación |
 |--- |--- |
 |Ehuan Avila Isaac Mauricio | 12 |
