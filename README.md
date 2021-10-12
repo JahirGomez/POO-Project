@@ -1,12 +1,12 @@
 # POO-Project
 
-# Integrantes:
+# Team Members:
   - Ehuan Avila Isaac Mauricio.
   - Fernández Mena Ariel Jesus.
   - Gamboa Campos Wilberth Manuel.
   - Gómez Gómez Horacio Jahir.
   
-# Propósito:
+# Purpose:
 
 
-# Público al que se dirige:
+# Target Audience:
