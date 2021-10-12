@@ -70,4 +70,3 @@ Usuario Administrador: Persona la cual tiene acceso a modificar la base de datos
 |RNF004|Acceso al sistema|
 |---|---|
 |Descripción|El sistema debe permitir al usuario acceder con éxito a la plataforma en un 99% de las veces en las que intente ingresar al servicio|
-
