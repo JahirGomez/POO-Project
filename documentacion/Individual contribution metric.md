@@ -1,4 +1,4 @@
-# Métrica de contribución individual:<H1>
+# Métrica de contribución individual:
 El presente documento muestra cuáles son las diferentes características que se tomaron en cuenta para medir el porcentaje de contribución individual de cada integrante del equipo de proyecto.
 * Creación del repositorio: 1 punto.
 * Definición de los requerimientos: 2 puntos.
